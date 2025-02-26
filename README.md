@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Random Blocks NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is a collection of 10 unique NFTs. Each NFT has a random color and a random shape.
 
-Try running some of the following tasks:
+Deployed on: [Base Sepolia](https://base-sepolia.blockscout.com/address/0x1013e5136279c83C997a95D4a0d626C8eCAc3eD7#code)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+View on OpenSea: [Random Blocks](https://testnets.opensea.io/collection/random-blocks)
